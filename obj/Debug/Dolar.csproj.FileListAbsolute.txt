@@ -1,0 +1,7 @@
+D:\DEV\2-C#\Uri Online Jugde\Dolar\Dolar\bin\Debug\Dolar.exe.config
+D:\DEV\2-C#\Uri Online Jugde\Dolar\Dolar\bin\Debug\Dolar.exe
+D:\DEV\2-C#\Uri Online Jugde\Dolar\Dolar\bin\Debug\Dolar.pdb
+D:\DEV\2-C#\Uri Online Jugde\Dolar\Dolar\obj\Debug\Dolar.csproj.AssemblyReference.cache
+D:\DEV\2-C#\Uri Online Jugde\Dolar\Dolar\obj\Debug\Dolar.csproj.CoreCompileInputs.cache
+D:\DEV\2-C#\Uri Online Jugde\Dolar\Dolar\obj\Debug\Dolar.exe
+D:\DEV\2-C#\Uri Online Jugde\Dolar\Dolar\obj\Debug\Dolar.pdb
